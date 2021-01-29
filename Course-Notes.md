@@ -1,1 +1,4 @@
-#Class Session 1 Notes:
+# Class Session 1 Notes:
+
+## Important Termonolgy:
+
