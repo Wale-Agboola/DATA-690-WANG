@@ -1,6 +1,6 @@
 # DATA-690-WANG
 
-## Assignment 1 for UMBC Data 690 Class
+## Assignments for UMBC Data 690 Class
 **Name:** Wale Agboola
 **Date:** 1/28/21
 
