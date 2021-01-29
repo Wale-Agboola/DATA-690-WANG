@@ -2,3 +2,5 @@
 
 ## Important Termonolgy:
 
+- ipynb = iteractive python notebook
+- pwd = present working directory
