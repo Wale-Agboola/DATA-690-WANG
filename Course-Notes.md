@@ -35,7 +35,7 @@
   - Time Series Analysis
   - Nonparametric Methods
   - Visualizations of statistical model results
-- **Import COnventions** 
+- **Import Conventions** 
   - import numpy as np
   - import matplotlib.pyplot as plt
   - import pandas as pd
