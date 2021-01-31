@@ -43,3 +43,6 @@
   - import statsmodels as sm
   
 ### Chapter 2:
+
+- Python is an interpreted language. The python interpreter runs a program by executing one statement at a time.
+- IPython executes the code in the specified file in the same process, enabling you to explore the results interactively when its done.
