@@ -46,3 +46,26 @@
 
 - Python is an interpreted language. The python interpreter runs a program by executing one statement at a time.
 - IPython executes the code in the specified file in the same process, enabling you to explore the results interactively when its done.
+- **Tab Completion**: While entering expressions in the shell, pressing the Tab key will search the namespace for any variables (objects, functions, etc.) matching the characters you have typed so far.
+- Also allows you to see the modues in a imported library
+- **Introspection**: Using a question mark (?) before or after a variable will display some general infor‐ mation about the object.
+- This is referred to as object introspection. If the object is a function or instance method, the docstring, if defined, will also be shown
+- Then using ? shows us the docstring
+- Using ?? will also show the function’s source code if possible
+- A number of characters combined with the wildcard (*) will show all names matching the wildcard expression
+- **Terminal Keyboard Shortcuts** See page 27 of text 
+- **Magic Commands** are designed to facilitate common tasks and enable you to easily control the behavior of the IPython system
+- For list of magic commands see page 29 in text 
+- Python uses whitespace (tabs or spaces) to structure code instead of using braces as in many other languages like R, C++, Java, and Perl
+- **Scalar Types**: standard library that has a built in types used for handling diferent types of data-
+- Numeric types *See page 39*
+- Strings *See page 39 - 42*
+- Booleans: the ttwo boolean values in python are written as true and false. 
+- **Control Flow**
+- if
+- elif
+- else 
+- for loops 
+- while loops 
+- pass
+- range
